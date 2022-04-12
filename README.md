@@ -1,6 +1,6 @@
 
       char name[2][8]={"Hachem","Saidane"}; 
-        printf("hi, I’m @%s%s\n",name[0],name[1]);
+        printf("hi, I am @%s%s\n",name[0],name[1]);
         
 - 👀 I’m interested in Language C, Algorithmes and Video/photo Editing...
 - 🌱 I’m currently learning Language C  ...
